@@ -1,0 +1,23 @@
+name: Task
+description: A piece of work with one owner
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What needs doing
+      description: One or two sentences. Link the proposal section if it helps.
+    validations:
+      required: true
+  - type: textarea
+    id: done-when
+    attributes:
+      label: Done when
+      description: How we will know it is finished.
+      placeholder: "e.g. IoU and F1 reported on the held-out tanks"
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Links, data sources, people to ask.
