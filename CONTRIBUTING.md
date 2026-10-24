@@ -20,6 +20,10 @@ Simple rules for three people. If a rule stops helping, we change it together.
 
 Small edits to notes and docs can go straight to `main`.
 
+## Personal workspaces
+
+Each of us also has a personal repo for experiments: `Mehara`, `Nimansala` and `Sewwandi`. Try anything there. When something works, move it into this repo with a pull request, every week rather than at the end. Tasks and weekly progress stay here, so everyone sees everyone's work.
+
 ## Weekly progress (every Friday)
 
 Open this week's file in `docs/progress/`, named after the Monday of the week (for example `2026-10-26.md`). If it doesn't exist yet, copy `_template.md`. Under your name, write three lines: done, next, blocked. It takes five minutes, and these files become our material for supervisor meetings and the final report.
