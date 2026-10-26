@@ -32,6 +32,7 @@ We are choosing between three topics in [issue #1](https://github.com/jarvis-uom
 | Weekly updates | [docs/progress/](docs/progress/) |
 | Meeting notes | [docs/meetings/](docs/meetings/) |
 | Decisions | [docs/decisions.md](docs/decisions.md) |
+| Past research summaries | [docs/research/](docs/research/) |
 | Personal experiments | Each member's workspace: [Mehara](https://github.com/jarvis-uom/Mehara), [Nimansala](https://github.com/jarvis-uom/Nimansala), [Sewwandi](https://github.com/jarvis-uom/Sewwandi). Working results move here every week. |
 | Large data and drafts for supervisor comments | Shared Google Drive folder (link to be added, [issue #6](https://github.com/jarvis-uom/is4990-project/issues/6)) |
 | Quick chat | WhatsApp group |
