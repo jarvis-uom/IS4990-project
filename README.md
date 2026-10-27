@@ -14,9 +14,9 @@ Everything for our final-year project lives here: proposals, meeting notes, week
 
 **Supervisors:** Dr. Upeksha Ganegoda (IT) · Prof. (Mrs) Thanuja Sandanayake (IDS)
 
-## Status: choosing the topic
+## Status: SWOT Tank Water Tracker is our target topic
 
-We are choosing between three topics in [issue #1](https://github.com/jarvis-uom/is4990-project/issues/1). Each proposal splits the work into three roles, one per member.
+For now, we are going ahead with the SWOT Tank Water Tracker (decided on 27 Oct 2026, see [docs/decisions.md](docs/decisions.md)). The supervisor still has to approve the proposal. The other two proposals stay here for reference. Each proposal splits the work into three roles, one per member.
 
 | Topic | Question it answers | Documents |
 |---|---|---|
@@ -32,7 +32,7 @@ We are choosing between three topics in [issue #1](https://github.com/jarvis-uom
 | Weekly updates | [docs/progress/](docs/progress/) |
 | Meeting notes | [docs/meetings/](docs/meetings/) |
 | Decisions | [docs/decisions.md](docs/decisions.md) |
-| Research notes: past research, the feasibility check, scope ideas and costs | [docs/research/](docs/research/) |
+| Research notes: past research, the feasibility check and scope ideas | [docs/research/](docs/research/) |
 | Talk for the supervisor (slides) | [docs/presentation/](docs/presentation/) |
 | Project website | [swot.mehara.work](https://swot.mehara.work) (code in [jarvis-uom/swot-tank-tracker-site](https://github.com/jarvis-uom/swot-tank-tracker-site)) |
 | Daily water data | [jarvis-uom/water-data-logger](https://github.com/jarvis-uom/water-data-logger) (private): reservoir levels, river gauges and the reservoir form, saved three times a day |

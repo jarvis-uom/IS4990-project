@@ -2,9 +2,11 @@
 
 Newest first. For each one, write the date, what we decided and why, so nobody has to remember it later.
 
-## Open: project topic
+## 2026-10-27 · Target topic: SWOT Tank Water Tracker
 
-Candidates: SWOT Tank Water Tracker, Roadside Tree & Power-Line Risk Map, Paddy Land Watch. Tracked in [issue #1](https://github.com/jarvis-uom/is4990-project/issues/1).
+- **Decided:** for now, our target topic is the **SWOT Tank Water Tracker**: the 5 big reservoirs east of Anuradhapura, plus 8 village tanks near Mahakanadarawa. The supervisor still has to approve the proposal.
+- **Why:** the feasibility check said GO, with changes ([summary](research/swot-feasibility-check.md)). All the data we need is free, and the work splits into one research question each.
+- The Roadside and Paddy proposals stay in [proposals/](proposals/) for reference. This closes [issue #1](https://github.com/jarvis-uom/is4990-project/issues/1).
 
 ## 2026-10-24 · Repo structure
 
