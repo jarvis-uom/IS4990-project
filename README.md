@@ -20,7 +20,7 @@ We are choosing between three topics in [issue #1](https://github.com/jarvis-uom
 
 | Topic | Question it answers | Documents |
 |---|---|---|
-| SWOT Tank Water Tracker | How much water does each tank hold right now? | [Proposal](docs/proposals/swot-tank-water-tracker.pdf) · [Brief](docs/proposals/brief-swot-tank-water-tracker.pdf) |
+| SWOT Tank Water Tracker | How much water does each tank hold right now? | [Proposal](docs/proposals/swot-tank-water-tracker.pdf) · [Brief](docs/proposals/brief-swot-tank-water-tracker.pdf) · [Talk](docs/presentation/) · [Website](https://swot.mehara.work) |
 | Roadside Tree & Power-Line Risk Map | Which roadside trees could fall, or are growing into the wires? | [Proposal](docs/proposals/roadside-tree-power-line-risk.pdf) · [Brief](docs/proposals/brief-roadside-tree-power-line-risk.pdf) |
 | Paddy Land Watch | What happened on each paddy field this season, and where is new filling? | [Proposal](docs/proposals/paddy-land-watch.pdf) · [Brief](docs/proposals/brief-paddy-land-watch.pdf) |
 
@@ -32,7 +32,10 @@ We are choosing between three topics in [issue #1](https://github.com/jarvis-uom
 | Weekly updates | [docs/progress/](docs/progress/) |
 | Meeting notes | [docs/meetings/](docs/meetings/) |
 | Decisions | [docs/decisions.md](docs/decisions.md) |
-| Past research summaries | [docs/research/](docs/research/) |
+| Research notes: past research, the feasibility check, scope ideas and costs | [docs/research/](docs/research/) |
+| Talk for the supervisor (slides) | [docs/presentation/](docs/presentation/) |
+| Project website | [swot.mehara.work](https://swot.mehara.work) (code in [jarvis-uom/swot-tank-tracker-site](https://github.com/jarvis-uom/swot-tank-tracker-site)) |
+| Daily water data | [jarvis-uom/water-data-logger](https://github.com/jarvis-uom/water-data-logger) (private): reservoir levels, river gauges and the reservoir form, saved three times a day |
 | Personal experiments | Each member's workspace: [Mehara](https://github.com/jarvis-uom/Mehara), [Nimansala](https://github.com/jarvis-uom/Nimansala), [Sewwandi](https://github.com/jarvis-uom/Sewwandi). Working results move here every week. |
 | Large data and drafts for supervisor comments | Shared Google Drive folder (link to be added, [issue #6](https://github.com/jarvis-uom/is4990-project/issues/6)) |
 | Quick chat | WhatsApp group |
