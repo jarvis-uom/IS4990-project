@@ -14,9 +14,9 @@ Everything for our final-year project lives here: proposals, meeting notes, week
 
 **Supervisors:** Dr. Upeksha Ganegoda (IT) · Prof. (Mrs) Thanuja Sandanayake (IDS)
 
-## Status: SWOT Tank Water Tracker is our target topic
+## Status: SWOT Tank Water Tracker is approved
 
-For now, we are going ahead with the SWOT Tank Water Tracker (decided on 27 Oct 2026, see [docs/decisions.md](docs/decisions.md)). The supervisor still has to approve the proposal. The other two proposals stay here for reference. Each proposal splits the work into three roles, one per member.
+Both supervisors approved the SWOT Tank Water Tracker proposal (recorded on 29 Oct 2026, see [docs/decisions.md](docs/decisions.md)). The final proposal is uploaded on 30 Oct 2026. The other two proposals stay here for reference. Each proposal splits the work into three roles, one per member.
 
 | Topic | Question it answers | Documents |
 |---|---|---|

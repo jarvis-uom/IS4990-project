@@ -2,6 +2,12 @@
 
 Newest first. For each one, write the date, what we decided and why, so nobody has to remember it later.
 
+## 2026-10-29 · Proposal approved
+
+- **Decided:** both supervisors approved the **SWOT Tank Water Tracker** proposal.
+- **The plan:** Member A, AI water maps (RQ1); Member B, SWOT heights, a trust screen and a storage model (RQ2, RQ3); Member C, the 2–4 week forecast and the system (RQ4).
+- **Documents:** the final [proposal](proposals/swot-tank-water-tracker.pdf) and the [talk](presentation/). The eight village tanks are not one cascade (checked 29 Oct); their local names are still to be confirmed.
+
 ## 2026-10-27 · Target topic: SWOT Tank Water Tracker
 
 - **Decided:** for now, our target topic is the **SWOT Tank Water Tracker**: the 5 big reservoirs east of Anuradhapura, plus 8 village tanks near Mahakanadarawa. The supervisor still has to approve the proposal.
