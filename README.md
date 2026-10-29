@@ -32,7 +32,7 @@ For now, we are going ahead with the SWOT Tank Water Tracker (decided on 27 Oct 
 | Weekly updates | [docs/progress/](docs/progress/) |
 | Meeting notes | [docs/meetings/](docs/meetings/) |
 | Decisions | [docs/decisions.md](docs/decisions.md) |
-| Research notes: past research, the feasibility check and scope ideas | [docs/research/](docs/research/) |
+| Research notes: past research, the feasibility check, scope ideas, the model check, the datasets list and the cascade check | [docs/research/](docs/research/) |
 | Talk for the supervisor (slides) | [docs/presentation/](docs/presentation/) |
 | Project website | [swot.mehara.work](https://swot.mehara.work) (code in [jarvis-uom/swot-tank-tracker-site](https://github.com/jarvis-uom/swot-tank-tracker-site)) |
 | Daily water data | [jarvis-uom/water-data-logger](https://github.com/jarvis-uom/water-data-logger) (private): reservoir levels, river gauges and the reservoir form, saved three times a day |
@@ -46,9 +46,9 @@ Every task is an issue with one owner. Code goes through a pull request that a t
 
 ## Key dates
 
-These dates are assumed in the proposals. We will update them when the faculty confirms the deadlines.
+The proposal date is confirmed. The final date is still assumed: we will update it when the faculty confirms it.
 
 | Date | Milestone |
 |---|---|
-| 30 Nov 2026 | Proposal submitted |
+| 30 Oct 2026 | Proposal upload |
 | 30 Jun 2027 | Final submission |
