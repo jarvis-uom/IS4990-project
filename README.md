@@ -8,9 +8,9 @@ Everything for our final-year project lives here: proposals, meeting notes, week
 
 | Member | GitHub | Role |
 |---|---|---|
-| Mehara Rothila Ranawaka (group leader) | [@mehara-rothila](https://github.com/mehara-rothila) | Module A or B (to be confirmed) |
+| Mehara Rothila Ranawaka (group leader) | [@mehara-rothila](https://github.com/mehara-rothila) | Module A: AI water map (RQ1) |
 | C.B.R.N.D. Bandara | [@NimansalaBandara](https://github.com/NimansalaBandara) | Module C: forecast and system (RQ4) |
-| K.S.D. Thabrew | [@dilshu09](https://github.com/dilshu09) | Module A or B (to be confirmed) |
+| K.S.D. Thabrew | [@dilshu09](https://github.com/dilshu09) | Module B: SWOT heights, trust screen and storage model (RQ2, RQ3) |
 
 Module A: AI water map (RQ1). Module B: SWOT heights, trust screen and storage model (RQ2, RQ3). Module C: forecast and system (RQ4).
 

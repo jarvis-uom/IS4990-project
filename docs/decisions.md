@@ -2,6 +2,11 @@
 
 Newest first. For each one, write the date, what we decided and why, so nobody has to remember it later.
 
+## 2026-10-31 · Module owners confirmed
+
+- **Decided:** Module A, AI water map (RQ1): [@mehara-rothila](https://github.com/mehara-rothila). Module B, SWOT heights, trust screen and storage model (RQ2, RQ3): [@dilshu09](https://github.com/dilshu09). Module C, forecast and system (RQ4): [@NimansalaBandara](https://github.com/NimansalaBandara).
+- **Why:** each member presents and defends their own module at the proposal talk and in the thesis.
+
 ## 2026-10-31 · Backup topics moved out of this repo
 
 - **Decided:** the Roadside Tree & Power-Line Risk Map and Paddy Land Watch proposals and briefs (4 PDFs) are removed from [proposals/](proposals/). They are kept, unchanged, in the team's private repo [jarvis-uom/backup-plans](https://github.com/jarvis-uom/backup-plans).
