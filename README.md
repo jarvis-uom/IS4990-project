@@ -18,13 +18,11 @@ Module A: AI water map (RQ1). Module B: SWOT heights, trust screen and storage m
 
 ## Status: SWOT Tank Water Tracker proposal submitted
 
-Both supervisors approved the SWOT Tank Water Tracker proposal (recorded on 29 Oct 2026, see [docs/decisions.md](docs/decisions.md)). The official 4-page proposal and the 15-slide talk were submitted on 30 Oct 2026; the presentation date is still to be announced. The other two proposals stay here for reference. Each proposal splits the work into three roles, one per member.
+Both supervisors approved the SWOT Tank Water Tracker proposal (recorded on 29 Oct 2026, see [docs/decisions.md](docs/decisions.md)). The official 4-page proposal and the 15-slide talk were submitted on 30 Oct 2026; the presentation date is still to be announced. The proposal splits the work into three modules, one per member. The two backup topics (Roadside Tree & Power-Line Risk Map, Paddy Land Watch) are kept in the team's private repo [jarvis-uom/backup-plans](https://github.com/jarvis-uom/backup-plans).
 
 | Topic | Question it answers | Documents |
 |---|---|---|
 | SWOT Tank Water Tracker | How much water does each tank hold right now? | [Submitted proposal](docs/proposals/swot-tank-water-tracker-submitted.pdf) · [Full proposal](docs/proposals/swot-tank-water-tracker.pdf) · [Brief](docs/proposals/brief-swot-tank-water-tracker.pdf) · [Talk](docs/presentation/) · [Website](https://swot.mehara.work) |
-| Roadside Tree & Power-Line Risk Map | Which roadside trees could fall, or are growing into the wires? | [Proposal](docs/proposals/roadside-tree-power-line-risk.pdf) · [Brief](docs/proposals/brief-roadside-tree-power-line-risk.pdf) |
-| Paddy Land Watch | What happened on each paddy field this season, and where is new filling? | [Proposal](docs/proposals/paddy-land-watch.pdf) · [Brief](docs/proposals/brief-paddy-land-watch.pdf) |
 
 ## Where things live
 

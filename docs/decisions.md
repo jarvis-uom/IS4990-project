@@ -2,6 +2,11 @@
 
 Newest first. For each one, write the date, what we decided and why, so nobody has to remember it later.
 
+## 2026-10-31 · Backup topics moved out of this repo
+
+- **Decided:** the Roadside Tree & Power-Line Risk Map and Paddy Land Watch proposals and briefs (4 PDFs) are removed from [proposals/](proposals/). They are kept, unchanged, in the team's private repo [jarvis-uom/backup-plans](https://github.com/jarvis-uom/backup-plans).
+- **Why:** this repo now holds only the SWOT Tank Water Tracker project. This replaces the 27 Oct note that kept them here for reference.
+
 ## 2026-10-29 · Proposal approved
 
 - **Decided:** both supervisors approved the **SWOT Tank Water Tracker** proposal.
