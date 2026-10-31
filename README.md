@@ -8,9 +8,11 @@ Everything for our final-year project lives here: proposals, meeting notes, week
 
 | Member | GitHub | Role |
 |---|---|---|
-| Mehara Rothila Ranawaka (group leader) | [@mehara-rothila](https://github.com/mehara-rothila) | Set after the topic is chosen |
-| (add your name) | [@NimansalaBandara](https://github.com/NimansalaBandara) | Set after the topic is chosen |
-| (add your name) | [@dilshu09](https://github.com/dilshu09) | Set after the topic is chosen |
+| Mehara Rothila Ranawaka (group leader) | [@mehara-rothila](https://github.com/mehara-rothila) | Module A or B (to be confirmed) |
+| C.B.R.N.D. Bandara | [@NimansalaBandara](https://github.com/NimansalaBandara) | Module C: forecast and system (RQ4) |
+| K.S.D. Thabrew | [@dilshu09](https://github.com/dilshu09) | Module A or B (to be confirmed) |
+
+Module A: AI water map (RQ1). Module B: SWOT heights, trust screen and storage model (RQ2, RQ3). Module C: forecast and system (RQ4).
 
 **Supervisors:** Dr.(Ms) Ganegoda G.U. (IT) · Prof.(Mrs) Sandanayake T.C. (IDS)
 
