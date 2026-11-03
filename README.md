@@ -34,7 +34,8 @@ Both supervisors approved the SWOT Tank Water Tracker proposal (recorded on 29 O
 | Decisions | [docs/decisions.md](docs/decisions.md) |
 | Research notes: past research, the feasibility check, scope ideas, the model check, the datasets list and the cascade check | [docs/research/](docs/research/) |
 | Proposal talk (slides) | [docs/presentation/](docs/presentation/) |
-| Project website | [swot.mehara.work](https://swot.mehara.work) (code in [jarvis-uom/swot-tank-tracker-site](https://github.com/jarvis-uom/swot-tank-tracker-site)) |
+| Project website | [swot.mehara.work](https://swot.mehara.work) (code in [jarvis-uom/swot-tank-tracker-site](https://github.com/jarvis-uom/swot-tank-tracker-site), private) |
+| Public satellite datasets (Module A) | On Kaggle, CC BY 4.0: [Sentinel-1 and 2 chips](https://www.kaggle.com/datasets/mehararothila/is4990-module-a-first-check-chips) (3,843 chips of 117 reservoirs, Jul 2023 to Dec 2025) and [every Sentinel-1 pass](https://www.kaggle.com/datasets/mehararothila/is4990-module-a-pass-chips) (16,552 radar chips, Oct 2020 to Oct 2026). See [data/README.md](data/README.md). |
 | Daily water data | [jarvis-uom/water-data-logger](https://github.com/jarvis-uom/water-data-logger) (private): reservoir levels, river gauges and the reservoir form, saved three times a day |
 | Personal experiments | Each member's workspace: [Mehara](https://github.com/jarvis-uom/Mehara), [Nimansala](https://github.com/jarvis-uom/Nimansala), [Sewwandi](https://github.com/jarvis-uom/Sewwandi). Working results move here every week. |
 | Large data and drafts for supervisor comments | [Shared Google Drive folder](https://drive.google.com/drive/folders/1xuW6Cw29zui5nStpL95cumJzVbLcgkLW) (team members only) |
