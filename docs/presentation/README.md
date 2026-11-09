@@ -9,6 +9,13 @@ The proposal talk: 15 slides, submitted with the proposal on 30 October 2026.
 
 You can also flip through the slides on the website: <https://swot.mehara.work/presentation>. The speaker notes are kept private, so these copies have none, and our names are left out: the modules' owners are shown as Member A, B and C.
 
+## Changes since the talk (9 Nov 2026)
+
+This page keeps the talk as it was submitted. Since then, Module A has changed in three ways ([decisions](../decisions.md), [Module A write-up](https://github.com/jarvis-uom/Mehara/tree/main/swot-tank-tracker/module-a)):
+- **No hand labelling.** Training labels come from clear Sentinel-2 photos, and the maps are checked against expert-labelled datasets instead of masks we draw ourselves.
+- **Radar only.** The water map is a U-Net on Sentinel-1 radar alone (VV and VH), because radar sees through cloud. It was first trained on the Sen1Floods11 flood dataset, then retrained on our own reservoirs with flood and S1S2-Water examples mixed in.
+- **Water under plants** is still part of RQ1, but it is not trained or tested yet.
+
 ## Who does what: one model each (slides 5 to 14)
 
 Our three models form one chain: A finds where the water is (a U-Net water map), B works out how much water there is (a gradient-boosting model that turns SWOT height and water area into % full, after a trust screen cleans the SWOT readings), and C says what comes next (an LSTM storage forecast). Slide 5 gives the overview; slides 6 to 8 cover Module A, 9 to 11 Module B and 12 to 14 Module C. The same plan is on the website's Team tab: <https://swot.mehara.work/team>.

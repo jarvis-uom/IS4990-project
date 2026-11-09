@@ -4,7 +4,7 @@ Copied from the Mehara workspace on 29 Oct 2026. Scripts, results and how to run
 
 **Answer: no.** Two separate sources agree on where each tank's water goes:
 - the Irrigation Department's own reservoir catchment map (fetched 25 Oct 2026);
-- a downhill flow trace on the Copernicus GLO-30 elevation map ([scripts](https://github.com/jarvis-uom/Mehara/tree/main/swot-tank-tracker/cascade-check/scripts)).
+- a downhill flow trace on the Copernicus GLO-30 elevation map (the scripts are in the team's private workspace).
 
 | Tank | Outline | Inside the department catchment of | Where its water goes (flow trace) |
 |---|---|---|---|
@@ -22,7 +22,7 @@ Copied from the Mehara workspace on 29 Oct 2026. Scripts, results and how to run
 
 ## A real cascade we could use
 
-I searched all the SWOT-ready village tanks for chains ([scripts](https://github.com/jarvis-uom/Mehara/tree/main/swot-tank-tracker/cascade-check/scripts)). It used the same filters as the feasibility check: 6.25–25 ha by SWOT reference area, 40+ usable readings, a rise and fall of 1 m or more, small jumps, 5% or fewer outliers, an outline under 60 ha, and within 12 km of the big five. That gives the same 49 tanks as the feasibility check; 17 of them are in a chain.
+I searched all the SWOT-ready village tanks for chains (the scripts are in the team's private workspace). It used the same filters as the feasibility check: 6.25–25 ha by SWOT reference area, 40+ usable readings, a rise and fall of 1 m or more, small jumps, 5% or fewer outliers, an outline under 60 ha, and within 12 km of the big five. That gives the same 49 tanks as the feasibility check; 17 of them are in a chain.
 
 The search found 7 chains. The biggest is south of Nachchaduwa:
 
@@ -36,7 +36,7 @@ The search found 7 chains. The biggest is south of Nachchaduwa:
 
 - All five lie inside Nachchaduwa's department catchment, and both SWOT passes (092 and 273) see them.
 - None has a name in OpenStreetMap or in SWOT's lake list.
-- Their plant cover has not been checked yet; that is the same Sentinel-2 check as [a6_shortlist.py](https://github.com/jarvis-uom/Mehara/tree/main/swot-tank-tracker/feasibility-check/work/a6_shortlist.py).
+- Their plant cover has not been checked yet; that is the same Sentinel-2 check as the feasibility check's `a6_shortlist.py` (in the team's private workspace).
 
 The other chains each have two tanks:
 - V7 → 4580005192 → Nuwara Wewa;
