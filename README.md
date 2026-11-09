@@ -2,7 +2,7 @@
 
 **Group 6 · University of Moratuwa · October 2026 – June 2027**
 
-Everything for our final-year project lives here: proposals, meeting notes, weekly progress, decisions and, once we choose the topic, the code.
+Everything for our final-year project lives here: proposals, meeting notes, weekly progress, decisions and, at the end, the final code.
 
 ## Team
 
@@ -16,9 +16,11 @@ Module A: AI water map (RQ1). Module B: SWOT heights, trust screen and storage m
 
 **Supervisors:** Dr.(Ms) Ganegoda G.U. (IT) · Prof.(Mrs) Sandanayake T.C. (IDS)
 
-## Status: SWOT Tank Water Tracker proposal submitted
+## Status (9 Nov 2026)
 
 Both supervisors approved the SWOT Tank Water Tracker proposal (recorded on 29 Oct 2026, see [docs/decisions.md](docs/decisions.md)). The official 4-page proposal and the 15-slide talk were submitted on 30 Oct 2026; the presentation date is still to be announced. The proposal splits the work into three modules, one per member. The two backup topics (Roadside Tree & Power-Line Risk Map, Paddy Land Watch) are kept in the team's private repo [jarvis-uom/backup-plans](https://github.com/jarvis-uom/backup-plans).
+
+**Module A (water maps, RQ1) has its model:** a radar U-Net retrained on our own reservoirs (run 5), which passed all of the rules fixed before it was trained. A second series is now judged only on fresh data, including radar passes from November 2026 to January 2027, scored in February 2027. The methods, results, code and a plain-English overview are in the [Module A write-up](https://github.com/jarvis-uom/Mehara/tree/main/swot-tank-tracker/module-a).
 
 | Topic | Question it answers | Documents |
 |---|---|---|
@@ -28,11 +30,12 @@ Both supervisors approved the SWOT Tank Water Tracker proposal (recorded on 29 O
 
 | What | Where |
 |---|---|
-| Tasks and who is doing what | [Issues](https://github.com/jarvis-uom/is4990-project/issues) and the project board |
+| Tasks and who is doing what | [Issues](https://github.com/jarvis-uom/is4990-project/issues) |
 | Weekly updates | [docs/progress/](docs/progress/) |
 | Meeting notes | [docs/meetings/](docs/meetings/) |
 | Decisions | [docs/decisions.md](docs/decisions.md) |
 | Research notes: past research, the feasibility check, scope ideas, the model check, the datasets list and the cascade check | [docs/research/](docs/research/) |
+| Module A (RQ1): methods, results and code | [Module A write-up](https://github.com/jarvis-uom/Mehara/tree/main/swot-tank-tracker/module-a) in the Mehara workspace, with a plain-English overview in its `docs/MODULE-A-SUMMARY.md` |
 | Proposal talk (slides) | [docs/presentation/](docs/presentation/) |
 | Project website | [swot.mehara.work](https://swot.mehara.work) (code in [jarvis-uom/swot-tank-tracker-site](https://github.com/jarvis-uom/swot-tank-tracker-site), private) |
 | Public satellite datasets (Module A) | On Kaggle, CC BY 4.0: [Sentinel-1 and 2 chips](https://www.kaggle.com/datasets/mehararothila/is4990-module-a-first-check-chips) (3,843 chips of 117 reservoirs, Jul 2023 to Dec 2025) and [every Sentinel-1 pass](https://www.kaggle.com/datasets/mehararothila/is4990-module-a-pass-chips) (16,552 radar chips, Oct 2020 to Oct 2026). See [data/README.md](data/README.md). |
