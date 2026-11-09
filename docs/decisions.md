@@ -2,6 +2,21 @@
 
 Newest first. For each one, write the date, what we decided and why, so nobody has to remember it later.
 
+## 2026-11-06 · What can be public
+
+- **Decided:** our code can be public. Module A's code, protocols and results are published in the [Module A write-up](https://github.com/jarvis-uom/Mehara/tree/main/swot-tank-tracker/module-a). Never public: the Irrigation Department's storage tables, the survey data, index numbers and the trained models.
+- **Why:** the project will be published in the end, and open code is easier to check. The department's tables are theirs to share, and part of the models' training data has no clear licence.
+
+## 2026-11-05 · Module A: run 5 is the model, and a second series on fresh data
+
+- **Decided:** run 5, a radar U-Net retrained on our own reservoirs, is Module A's model: it passed all four rules fixed before it was trained. A second series is judged only on data no model has seen: radar passes from 1 Nov 2026 to 31 Jan 2027 against the department's daily storage (scored in February 2027), 14 unused S1S2-Water scenes and an outside flood dataset.
+- **Why:** run 5's tests had been used several times, so a claim needs tests that are new to every model.
+
+## 2026-11-02 · How Module A is trained and checked
+
+- **Decided:** no hand labelling. Training labels come from clear Sentinel-2 photos, and the maps are checked against expert-labelled datasets (Sen1Floods11, S1S2-Water), Google's Dynamic World and the department's daily storage. The rules of every training run are written down before it runs. Heavy computing runs on Kaggle.
+- **Why:** examiners may not trust labels we draw ourselves, while expert datasets and storage records are independent. Rules fixed in advance stop us from picking whatever looks best afterwards.
+
 ## 2026-10-31 · Module owners confirmed
 
 - **Decided:** Module A, AI water map (RQ1): [@mehara-rothila](https://github.com/mehara-rothila). Module B, SWOT heights, trust screen and storage model (RQ2, RQ3): [@dilshu09](https://github.com/dilshu09). Module C, forecast and system (RQ4): [@NimansalaBandara](https://github.com/NimansalaBandara).
