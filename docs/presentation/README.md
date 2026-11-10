@@ -16,6 +16,14 @@ This page keeps the talk as it was submitted. Since then, Module A has changed i
 - **Radar only.** The water map is a U-Net on Sentinel-1 radar alone (VV and VH), because radar sees through cloud. It was first trained on the Sen1Floods11 flood dataset, then retrained on our own reservoirs with flood and S1S2-Water examples mixed in.
 - **Water under plants** is still part of RQ1, but it is not trained or tested yet.
 
+## Correction: slide 8 (10 Nov 2026)
+
+Slide 8 shows how far simple water rules were off at Kanhindawewa, a plant-covered tank. That range was measured against the Irrigation Department's drone survey of the tank, and the survey sheet asks for the Director General of Irrigation's approval before its data is reused. Until that approval is given, our public pages quote no numbers from the survey.
+
+- The slide stays as submitted, here, in the [v1.0 release](https://github.com/jarvis-uom/IS4990-project/releases/tag/proposal-v1.0) and on the website. Please do not quote or reuse its range.
+- What the slide shows still holds: simple rules miss much of the water under floating plants, which is why Member A trains a model.
+- The survey sheet itself is public on the department's site (linked under "Datasets and links" below).
+
 ## Who does what: one model each (slides 5 to 14)
 
 Our three models form one chain: A finds where the water is (a U-Net water map), B works out how much water there is (a gradient-boosting model that turns SWOT height and water area into % full, after a trust screen cleans the SWOT readings), and C says what comes next (an LSTM storage forecast). Slide 5 gives the overview; slides 6 to 8 cover Module A, 9 to 11 Module B and 12 to 14 Module C. The same plan is on the website's Team tab: <https://swot.mehara.work/team>.
