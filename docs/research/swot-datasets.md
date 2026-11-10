@@ -254,9 +254,7 @@ Measured on the ground: what we train on and test against.
 - **Size:** One 2 MB PDF.
 - **Is it right for us?**
     - The only measured tank bed we have: the area and capacity at every foot of height.
-    - We show no picture of it: reusing the map needs the Director General of Irrigation's approval.
-- **Ready-made tools:**
-    - Our Drone survey page (https://swot.mehara.work/drone.html)
+    - Reusing it needs the Director General of Irrigation's approval, so our public pages show none of its numbers or its map.
 - **Open the data:** The survey sheet (PDF) (https://www.irrigation.gov.lk/web/images/Scheme-Maps/Anuradhapura/HuruluWewa/Area_Capacity_Kanhindawewa_01_07_2026.pdf)
 - **Used by:** Member A (checks or stretch), Member B (checks or stretch)
 
