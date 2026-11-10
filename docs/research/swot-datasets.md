@@ -92,7 +92,7 @@ Where the water is. Member A's water map learns from these pictures.
 - **Size:** 230–640 MB per scene (a 110 km square). We read only small windows around each tank: our check of over 400 scenes read about 200 MB.
 - **Is it right for us?**
     - Only 8–12% of scenes are fully clear over Mahakanadarawa. The best months are March and September–October.
-    - At plant-covered Kanhindawewa, a simple water index (NDWI) missed about 65% of the water.
+    - Under thick water plants, a simple water index (NDWI) misses the water.
     - At 10 m a 6 ha tank is 600 pixels, against 67 at 30 m, so it suits small tanks.
 - **How others used it:**
     - IFAD and ESA, 2026: monthly 10 m water maps of over 10,650 water bodies in 6 Sri Lankan districts, 2017 to August 2025 (https://www.ifad.org/en/w/publications/water-surface-maps-to-manage-ancient-tank-cascade-systems-in-sri-lanka)
@@ -112,7 +112,7 @@ Where the water is. Member A's water map learns from these pictures.
 - **Size:** About 1–2 GB per scene. Ready-made terrain-corrected pieces (OPERA RTC-S1) are about 14 MB each.
 - **Is it right for us?**
     - It sees the water through monsoon cloud, when photos see nothing.
-    - Thick floating plants look like land to it: at Kanhindawewa a simple −18 dB rule found only about a tenth of the water.
+    - Thick floating plants look like land to it, so a simple radar threshold misses the water under them.
 - **How others used it:**
     - Perera and Jayaweera, 2020: Sri Lankan reservoirs; radar water area against reported volume, R² 0.67–0.94 (https://archive.cmb.ac.lk/items/84f64851-eaa9-4b8c-babd-5d18f130c1ee)
     - Wieland et al., 2024: a U-Net on radar matched 85% of the true water (https://doi.org/10.1109/JSTARS.2023.3333969)
@@ -253,11 +253,8 @@ Measured on the ground: what we train on and test against.
 - **What it gives:** A measured tank bed: the area and capacity of Kanhindawewa at every foot of height.
 - **Size:** One 2 MB PDF.
 - **Is it right for us?**
-    - The only measured tank bed we have: full supply at 260 ft, 83.5 ha and 817 acre-feet.
-    - On it, Imbulana's formula gave 4–14% too much water above one-third depth (our test).
-    - We show no picture of it: reusing the map needs the Director General of Irrigation's approval.
-- **Ready-made tools:**
-    - Our Drone survey page (https://swot.mehara.work/drone.html)
+    - The only measured tank bed we have: the area and capacity at every foot of height.
+    - Reusing it needs the Director General of Irrigation's approval, so our public pages show none of its numbers or its map.
 - **Open the data:** The survey sheet (PDF) (https://www.irrigation.gov.lk/web/images/Scheme-Maps/Anuradhapura/HuruluWewa/Area_Capacity_Kanhindawewa_01_07_2026.pdf)
 - **Used by:** Member A (checks or stretch), Member B (checks or stretch)
 
