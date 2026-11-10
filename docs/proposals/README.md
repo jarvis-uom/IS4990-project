@@ -4,7 +4,9 @@ The SWOT Tank Water Tracker proposal (October 2026): the submitted version, the 
 
 | Topic | Full proposal | One-page brief |
 |---|---|---|
-| SWOT Tank Water Tracker | [swot-tank-water-tracker-submitted.pdf](swot-tank-water-tracker-submitted.pdf): the official 4-page proposal submitted on 30 Oct 2026 (this public copy leaves out the title page with our names and index numbers). [swot-tank-water-tracker.pdf](swot-tank-water-tracker.pdf): the full proposal, final on 30 Oct 2026 (approved by both supervisors on 29 Oct; 7 small factual fixes on 30 Oct); 20 pages including 3 pages of research notes | [brief-swot-tank-water-tracker.pdf](brief-swot-tank-water-tracker.pdf) |
+| SWOT Tank Water Tracker | [swot-tank-water-tracker-submitted.pdf](swot-tank-water-tracker-submitted.pdf): the official 4-page proposal submitted on 30 Oct 2026 (this public copy leaves out the title page with our names and index numbers). [swot-tank-water-tracker.pdf](swot-tank-water-tracker.pdf): the full proposal, final on 30 Oct 2026 (approved by both supervisors on 29 Oct; 7 small factual fixes on 30 Oct); 20 pages including 3 pages of research notes | [brief-swot-tank-water-tracker.pdf](brief-swot-tank-water-tracker.pdf) (the early brief from mid-October, before the plan changed and the proposal was approved) |
+
+**Module B planning brief** (4 Nov 2026, by @dilshu09): [Module_B_Complete_Research_Planning_and_Technical_Discussion.pdf](Module_B_Complete_Research_Planning_and_Technical_Discussion.pdf): research questions, methods for turning SWOT heights and Module A's areas into storage change, validation plan and questions for the engineer.
 
 The past research behind the SWOT proposal is summarised in simple words, with links, in [../research/swot-past-research.md](../research/swot-past-research.md).
 

@@ -28,6 +28,7 @@ Research scan, 26 October 2026. Every item comes from a real source with its lin
    - Source: [irrigation.gov.lk Reservoir Status](https://irrigation.gov.lk/web/index.php?option=com_content&view=article&id=84&Itemid=201&lang=en)
 
 4. **Sentinel-1 is back to a 6-day repeat.** Sentinel-1C and Sentinel-1D now share the job, which means more radar dates per tank than the proposal assumed.
+   - *Correction (30 Oct 2026):* not over our tanks. ASF's catalogue shows one radar date every 12 days there (both tracks on the same day), and Sentinel-1D replaced 1A in 2026; the 6-day repeat has not reached our area. See the [datasets list](swot-datasets.md).
    - Source: [Copernicus Data Space Ecosystem news](https://dataspace.copernicus.eu/node/4010)
 
 5. **Add the closest similar study to the literature review.**
